@@ -18,9 +18,11 @@ btnBuscar.addEventListener('click', (e) => {
     }
 })
 
+
 btnLimpar.addEventListener('click', () => {
     limparCampos();
 })
+
 
 btnSalvar.addEventListener('click', () => {
     alert("Dados salvos com sucesso!!!");

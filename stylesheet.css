@@ -85,12 +85,12 @@ img {
     border-radius: 10px;
     font-size: 17px;
     font-weight: bolder;
-    color: #232f3e;
+    color: #233e2f;
     margin: 3%;    
 }
 
 #botao_buscar {
-    background-color: #7885bd;
+    background-color: #23d612;
 
 }
 
@@ -100,7 +100,7 @@ img {
 }
 
 #botao_salvar {
-    background-color: #1ad853;
+    background-color: #599bf0;
 }
 
 .msgErro {
